@@ -1,0 +1,15 @@
+/* general */
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    background-color: lightblue;
+}
+
+.lead {
+    color: yellow;
+    background-color: inherit;
+}
